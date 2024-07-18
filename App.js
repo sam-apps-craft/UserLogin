@@ -6,7 +6,7 @@ import LoginScreen from "./screens/LoginScreen";
 import SignupScreen from "./screens/SignupScreen";
 import WelcomeScreen from "./screens/WelcomeScreen";
 
-import { Colors } from "./screens/constants/styles";
+import { Colors } from "./constants/styles";
 
 const Stack = createStackNavigator();
 
